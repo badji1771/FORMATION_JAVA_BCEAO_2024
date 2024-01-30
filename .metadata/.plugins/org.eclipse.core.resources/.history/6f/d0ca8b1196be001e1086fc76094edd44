@@ -1,0 +1,17 @@
+package lanch;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import model.ClientRecord;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		ClientRecord c = new ClientRecord("Toto", 24);
+		System.out.println(c);
+		
+	}
+
+}

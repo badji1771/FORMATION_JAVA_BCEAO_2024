@@ -1,0 +1,15 @@
+package model;
+
+public class PaymentProcessor {
+
+	public void processPayment(PayementMethod payementMethod,double amount) {
+		switch (payementMethod) {
+		case CreditCard cc -> {
+			cc.welcomeMessage();
+			cc.creditMethod();
+		}
+		default:
+			
+		}
+	}
+}

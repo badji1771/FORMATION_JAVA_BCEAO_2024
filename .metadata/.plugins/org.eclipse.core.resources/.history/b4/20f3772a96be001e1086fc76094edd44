@@ -1,0 +1,6 @@
+package model;
+
+//Object non mutable 
+public record ClientRecord(String name,int age) {
+
+}

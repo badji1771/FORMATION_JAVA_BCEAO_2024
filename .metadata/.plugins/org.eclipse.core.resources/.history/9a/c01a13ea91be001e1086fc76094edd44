@@ -1,0 +1,18 @@
+package model;
+
+public interface I {
+//JAVA 7
+	public static final String MSG = "Hello";
+	public abstract void monContrat();
+	
+	//JAVA 8
+	//Methode que les class ne sont pas oblige dimplemente
+	public default void sayHello() {
+		System.out.println("hello");
+	}
+	
+	//Methode static
+	public static int cal(int a) {
+		
+	}
+}

@@ -1,0 +1,18 @@
+package lanch;
+
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
+
+public class DateTester {
+
+	public static void main(String[] args) {
+		LocalDate lc = LocalDate.now();
+		System.out.println(lc);
+		
+		lc = LocalDate.parse("2024-01-30");
+		System.out.println(lc);
+		
+		lc = LocalDate.parse("29/01/2024",DateTimeFormatter.ofPattern("dd/MM/yyyy"));
+		System.out.println(lc);
+	}
+}

@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module org.formation.bceao.service {
+	requires org.formation.bceao.db;
+	exports service;
+}

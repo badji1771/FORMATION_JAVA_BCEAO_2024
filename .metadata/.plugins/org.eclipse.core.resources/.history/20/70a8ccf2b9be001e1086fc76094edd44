@@ -1,0 +1,15 @@
+package model;
+
+public class PaymentProcessor {
+
+	public void processPayment(PayementMethod payementMethod,double amount) {
+		switch (payementMethod) {
+		case Credit: {
+			
+			yield type;
+		}
+		default:
+			throw new IllegalArgumentException("Unexpected value: " + key);
+		}
+	}
+}

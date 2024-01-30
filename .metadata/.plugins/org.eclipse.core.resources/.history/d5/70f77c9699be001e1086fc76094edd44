@@ -1,0 +1,14 @@
+package lanch;
+
+import java.time.LocalDate;
+
+public class DateTester {
+
+	public static void main(String[] args) {
+		LocalDate lc = LocalDate.now();
+		System.out.println(lc);
+		
+		lc = LocalDate.parse("2024-01-30");
+		System.out.println(lc);
+	}
+}

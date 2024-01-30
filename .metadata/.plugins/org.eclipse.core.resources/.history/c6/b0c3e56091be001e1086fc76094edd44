@@ -1,0 +1,13 @@
+package model;
+
+public interface I {
+//JAVA 7
+	public static final String MSG = "Hello";
+	public abstract void monContrat();
+	
+	//JAVA 8
+	public default void sayHello() {
+		
+	}
+	
+}

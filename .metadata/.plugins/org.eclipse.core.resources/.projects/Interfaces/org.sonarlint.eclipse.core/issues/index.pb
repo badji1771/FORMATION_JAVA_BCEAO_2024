@@ -1,0 +1,29 @@
+
+@
+src/model/I.java,3\5\35458b62d05120541dc4e7f5a6c24c671aac0761
+C
+src/lanch/Main.java,a\5\a5c1d2159835dc8764c4aee760cf9aab1c8e47b8
+J
+src/interfaces/Animal.java,0\0\00f76e857801e9200dbc141a54a1f6de9ab00183
+J
+src/interfaces/Circle.java,9\1\91de13a3be53ae2069f8584b90cd1bbb216ebf3a
+@
+src/model/J.java,c\9\c9727551c8df86ba9f99356e836a49a229b4911a
+K
+src/model/ClientRecord.java,e\2\e250994431659c4ae3f403cb02894f3f407c6a01
+O
+src/permisandsealed/Animal.java,5\0\502f2de890cc5b77ce929d2dafe4d8f6a4df1e08
+E
+src/model/Client.java,3\2\32a33b3def0d68db33d12d1a0e041f326bcf8a4e
+@
+src/model/A.java,f\c\fcb584599364e73fb36169b32fa916d9fe3cb57b
+O
+src/permisandsealed/Sharpe.java,1\e\1edf8beb0c2edb22f89fc71664097c5fe1b6ecd5
+D
+src/module-info.java,c\d\cdc434daeee688944ced38ff1c9875422db88382
+C
+src/model/Util.java,6\5\651a60302d96605c54e7b367ac5f3410fd738b54
+O
+src/permisandsealed/Circle.java,9\4\94cb1a9d326bc13eda661d30d721fc6a84ff7ef0
+J
+src/interfaces/Sharpe.java,3\2\325866e369c2efc9a24116fbeac7e9bfe0b93dc3
