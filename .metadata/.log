@@ -1573,3 +1573,9 @@ org.eclipse.jface.text.BadLocationException
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-30 11:32:20.684
+!MESSAGE Classpath changed for project: StreamPlayground
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-01-30 11:32:21.016
+!MESSAGE Classpath changed for project: StreamPlayground
